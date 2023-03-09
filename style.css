@@ -10,7 +10,7 @@ body {
 }
 
 #wrapper {
-    max=width: 900px;
+    max=width: 1000px;
     margin: 0 auto;
     background-color: white;
 }
@@ -59,7 +59,7 @@ nav a:hover
         margin: 0 10%;
         padding=bottom: 15px;
         margin-bottom: 20px;
-        border-bottom: 2px solid crimson;
+...
     }
 }
     a.menu 
