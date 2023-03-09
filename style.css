@@ -59,13 +59,13 @@ nav a:hover
         margin: 0 10%;
         padding=bottom: 15px;
         margin-bottom: 20px;
-...
+        border-bottom: 2px solid crimson;
     }
 }
     a.menu 
 {
     display: inline-block;   
-    width: 25%;
+    width: 15%;
     padding: 10px 20px;
     color: white;
     text-decoration: none;
